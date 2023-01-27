@@ -1,0 +1,25 @@
+
+.red{
+  color: red;
+}
+
+.error{
+  color: orangered;
+  font-size: 2rem;
+}
+
+.post-info{
+  overflow: auto;
+}
+
+.post {
+  display: flex;
+  background: #060606;
+  color: rgb(130, 159, 214);
+  padding: .5em;
+  margin-bottom: .5em;
+  border-radius: .25em;
+  align-items: center;
+}
+
+
